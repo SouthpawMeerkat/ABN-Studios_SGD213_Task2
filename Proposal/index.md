@@ -29,17 +29,11 @@ Read the design justification [here](project_justification.md).
 gray box arena
 2 basic model guns
 1 basic ai
-1 basic grande model
+1 basic grenade model
 simple movement
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
 * Needs the product in 5 weeks.
-* Gameplay should be fast-paced
-* Rounds should be short
-* Should be quick to restart
-* Feedback is a major point
-* People should be drawn to it by it's appearance
-    * Needs a catchy name
 
 ### Expectations
 [//]: # (What are the client's expectations?)
@@ -49,8 +43,7 @@ simple movement
 * Quality transparent project management (add the client)
 * Does **not** require audio
 * Does **not** require high quality art
-    * Can use basic geometry
-    * Should still look nice using colour palettes
+
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
