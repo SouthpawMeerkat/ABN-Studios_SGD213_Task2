@@ -1,24 +1,24 @@
 # Project Overview
 [//]: # (This section is an example structure for the proposal to your client.)
+Looking for a standard Doom, Halo 1-2, Quake, or Duke Nukem-style FPS. Need some basic enemy AI that walks around and looks at the player when in range (They don’t have to shoot back). The player character needs to have 2 guns they can change, a grenade, and movement. 
 
->This is all sample material in here, to give you an idea on how and what to populate each section with. If you think of other sections or a different document layout, please do use it!
 
 ## Design
 [//]: # (How will you meet the client's brief, their expectations, and their requirements.)
-
+using component based programing in unity engine we will compose a template that fits the breif and allow the client to proceed with teaching his class
 ### Project Name
-Donuts, Daggers & Dragons and other things and things bahhhhh
+FPS Template
 
 ### Description
 [//]: # (This is the elevator pitch, sell the idea)
-Players play as humanoid donuts trained in the art of ninjitsu. 
-Players cooperate in teams of 2 to overcome the other teams in an arena-style, top-down, dagger-throwing, action-brawler. 
-After gaining victory, the winning team is given the opportunity to unlock epic loot by facing the Dragon...
-
+2 guns
+doom like movement
+AI moving around and face player when near
+grenade boom
 ### Begin Date
-
+10/05/2025
 ### End Date
-
+01/06/2025
 ### Justification
 Read the design justification [here](project_justification.md).
 
@@ -26,7 +26,11 @@ Read the design justification [here](project_justification.md).
 
 ## Statement of Works
 [//]: # (This section is about managing expectations; list out all of the qualities that will be in the final product)
-
+gray box arena
+2 basic model guns
+1 basic ai
+1 basic grande model
+simple movement
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
 * Needs the product in 5 weeks.
