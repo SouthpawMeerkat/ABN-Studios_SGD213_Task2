@@ -2,13 +2,13 @@
 [//]: # (This section is an example of justifying your design and development decisions.)
 
 ## Overview
-
+Our client has tasked us with making a firstperson shooter template whcih requires two guns a granade and a AI that tracks the player they will be using this to teach a class so a gray box and basic models from i.e. sketchfab this will allow the client to have a good bases of work to continue their leason
 ### Brief
 [//]: # (What was the client's brief?)
 The client is seeking a proof of concept for a game that is simple, yet a leader in its class
-* Users should be drawn to the game by its eye-catching visuals
-* The audio in the game should be exciting and drive the player's emotion
-* The gameplay should be fast-paced, quick to gain feedback and quick to retry
+* The Template should be used within a classroom enviroment
+* The game should have two weapons and ability to shoot with a granade as a leathal projectile 
+* The game should have a AI to walk around and look at player
 
 ### Communication
 * When do you need this prototype by?
