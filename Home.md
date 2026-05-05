@@ -5,13 +5,12 @@ Welcome! If you don't know what you are doing here, jump over to the [Task 2](Ta
 Delete out all of the useless stuff in your Wiki whenever you like (eg. the Old Structure stuff below). Don't delete important stuff though!
 
 ## Introduction
-This wiki discusses the client requirements for the <PROJECT_NAME> project.
-This project is being completed by <TEAM_NAME> for <CLIENT_NAME>.
-The handover date for the project is the XXth of YY. Add something
 
+This Wiki Will be discusing ABN-Studios' Plan to make and develop the project request from Daniell.
+He has requested for the development of a First Person Shooter Game with Specific Features.
+This Document will Step out how our team aims to achieve His goals for this game.
+The final project will be handed over to Daniell 1st of June 2026.
 ## Table of Contents
-
-These are the two main areas of the assessment. Make a change!
 
 [//]: # (You can link to other pages in your wiki, or you can keep it inline)
 * [Proposal](Proposal/index.md)
