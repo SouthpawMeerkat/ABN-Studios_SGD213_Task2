@@ -12,20 +12,12 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
 
 ### Communication
 * When do you need this prototype by?
-> I need the prototype by Friday Week 13.
-
-* What kind of games do you think are good?
-> Couch coop games appear to be simple enough to develop and can move reasonable units if done well.
+> I need the prototype by 01/06/2026
 
 * Since you only need a prototype, are you happy for us to focus on gameplay and use based geometry for art assets?
 > Yes perfect, the prototype is a proof of concept, please don't waste time on creating art assets; if the game is fun with simple art assets, that is perfect. At least change the colour palette to be aesthetically pleasing though.
 
-* Do you need a menu system?
-> Well I need to be able to take this to potential investors to sell the idea. If I need to quit out of it every time I finish that will not work. It will need basic UI functionality, pausing, quitting out of game, exiting the application, returning to main menu, playing the game from main menu.
-
-* Are there any themes you think are popular or you would like to see in your game?
-> Hmm... not really. I do like dragons though! I think silly games catch people's eyes?
-
+these are two questions we'd ask ourselves and the client however isn't the only way we'd proceed with commuincation we'd like to keep the client in the loop of all stages of production and make sure that the final product meets the standards of the client
 ---
 
 ## Project Understanding
@@ -33,12 +25,7 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
 * Needs the product in 5 weeks.
-* Gameplay should be fast-paced
-* Rounds should be short
-* Should be quick to restart
-* Feedback is a major point
-* People should be drawn to it by it's appearance
-    * Needs a catchy name
+* The project is a template and so must be able to be taught to a class
 
 ### Expectations
 [//]: # (What are the client's expectations?)
@@ -53,8 +40,9 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
-* UI art does not need to be high quality, will just use basic Unity UI sprites
-* Particles will be important, but since we shouldn't spend time on art, will use standard asset or free particle assets
+* the game just needs to be a basic template/prototype with the intention to teach students
+* having basic AI is only needed as this will allow the teacher to go more in depth with the project to give the prototype more life
+* the client is a former dev meaning they have coding knowledge and would be able to easily edit and teach students and build from our prototype
 
 ---
 ## Risks
@@ -83,8 +71,6 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
 ---
 
 ## Justification
-We really like the mention of "silly games catch people's eyes". So we took your suggestion of dragons and built on it with alliteration as a starting point. We went through many ideas, but finally came up with a title called "Donuts, Daggers & Dragons.
-
-The name along was enough to get conversation happening, and we soon found ourselves thinking of countless, comical and enjoyable scenarios stemming from the title.
+We have read through your breif many times and have gotten a fair idea of what you are after having it be simlar to the great fps titles such as DOOM and Halo and with you being a former bungie dev we are egar to set out and create this template for you and allow you to teach the future generation of the game industry
 
 etc. Explain your design decisions in regards to the client's requirements.
