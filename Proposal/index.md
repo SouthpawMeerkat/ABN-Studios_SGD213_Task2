@@ -16,9 +16,9 @@ doom like movement
 AI moving around and face player when near
 grenade boom
 ### Begin Date
-10/05/2025
+10/05/2026
 ### End Date
-01/06/2025
+01/06/2026
 ### Justification
 Read the design justification [here](project_justification.md).
 
