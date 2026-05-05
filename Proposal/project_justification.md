@@ -17,7 +17,7 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
 * Since you only need a prototype, are you happy for us to focus on gameplay and use based geometry for art assets?
 > Yes perfect, the prototype is a proof of concept, please don't waste time on creating art assets; if the game is fun with simple art assets, that is perfect. At least change the colour palette to be aesthetically pleasing though.
 
-these are two questions we'd ask ourselves and the client however isn't the only way we'd proceed with commuincation we'd like to keep the client in the loop of all stages of production and make sure that the final product meets the standards of the client
+*these are two questions we'd ask ourselves and the client and further commuications would be through email*
 ---
 
 ## Project Understanding
