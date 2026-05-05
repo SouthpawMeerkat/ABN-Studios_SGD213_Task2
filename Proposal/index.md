@@ -7,7 +7,7 @@ Looking for a standard Doom, Halo 1-2, Quake, or Duke Nukem-style FPS. Need some
 [//]: # (How will you meet the client's brief, their expectations, and their requirements.)
 using component based programing in unity engine we will compose a template that fits the breif and allow the client to proceed with teaching his class
 ### Project Name
-FPS Template
+We will be adressing this project within our team and this document as: FPS Template
 
 ### Description
 [//]: # (This is the elevator pitch, sell the idea)
@@ -19,8 +19,9 @@ grenade boom
 10/05/2026
 ### End Date
 01/06/2026
+
 ### Justification
-Read the design justification [here](project_justification.md).
+[Project Justification](project_justification.md).
 
 ---
 
