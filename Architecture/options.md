@@ -9,4 +9,5 @@ we could also consider event-driven architecture this approach works by having d
 
 ### Layered
 Layered architecture is quite similar to component where the team could work on different tasks simultaneously however this would be more a kin to a 2d project as it heavily relies on the interface for its structure kind of working in the same regard to a paint software the game would be made with layers upon layers 
-this is one could work but because its limitations in a 3d space I would not recommend this choice.1
+this is one could work but because its limitations in a 3d space I would not recommend this choice.
+<img width="1029" height="585" alt="Interface Diaragram" src="https://github.com/user-attachments/assets/aa7038e7-2873-4996-b35f-7d2f58c10167" />
