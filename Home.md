@@ -13,5 +13,8 @@ The final project will be handed over to Daniell 1st of June 2026.
 
 [//]: # (You can link to other pages in your wiki, or you can keep it inline)
 * [Proposal](Proposal/index.md)
+  *   [Justification](Proposal/Project_justification.md)
 * [Architecture](Architecture/index.md)
+  *   [Options](Architecture/options.mp)
+  *   [Choosen Structure](Architecture/Achitecture.md)
 
