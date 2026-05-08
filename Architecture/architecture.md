@@ -3,7 +3,7 @@ This architecture would be the easiest for the client’s students to learn, as 
 
 
 
-## Compoent loop
+## Component loop
 <img width="1010" height="1491" alt="Compartment-Based_Coding" src="https://github.com/user-attachments/assets/5cd32095-658b-4a63-a2f6-d90542289e05" />
 
 ## Gameplay loop
