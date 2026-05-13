@@ -11,10 +11,11 @@ We will be adressing this project within our team and this document as: FPS Temp
 
 ### Description
 [//]: # (This is the elevator pitch, sell the idea)
-2 guns
-doom like movement
-AI moving around and face player when near
-grenade boom
+* 2 guns that the player can switch between and use to fire a bullet
+* Simple player movement, Including WASD and at least a jump
+* AI moving around and face player when near
+* grenade that the player can throw and will blow up after a set time dealing damage in an area
+
 ### Begin Date
 10/05/2026
 ### End Date
@@ -28,10 +29,10 @@ grenade boom
 ## Statement of Works
 [//]: # (This section is about managing expectations; list out all of the qualities that will be in the final product)
 gray box arena
-2 basic model guns
-1 basic ai
-1 basic grenade model
-simple movement
+* 2 basic model guns
+* 1 basic ai
+* 1 basic grenade model
+* simple movement
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
 * Needs the product in 5 weeks.
@@ -57,10 +58,11 @@ simple movement
 [//]: # (This is where you would list your hourly rates and time estimations)
 
 ## Milestones
-[//]: # (Breakdown of phases of development, with estimated delivery times)
-[//]: # (In practice, if you were working on fixed price phases, you would also list expected payment after each phase.)
 | Phase | Completion Date |
 | --- | --- |
+|Player Input | Week 11 |
+|AI Movement | Week 11 |
+|Weapons | Week 12 |
 | Prototype | Week 13 |
 
 ---
@@ -69,12 +71,3 @@ simple movement
 [//]: # (List out the arrangement)
 Work will be completed to fit the provided Statement of Works, any work outside of this arrangement will be billed at our hourly rate, or, quoted separately.
 
-## Signatures
-[//]: # (If dealing in person, agreements should be signed so that additional work can be billed)
-| Client Name | Date | Signature |
-| --- | --- | --- |
-| John Doe | 12-34-5678 | ________ |
-
-| Team Rep. | Date | Signature |
-| --- | --- | --- |
-| Jane Doe | 12-34-5678 | ________ |
