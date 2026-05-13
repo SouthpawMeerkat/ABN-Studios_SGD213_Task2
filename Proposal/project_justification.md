@@ -17,8 +17,8 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
 * Since you only need a prototype, are you happy for us to focus on gameplay and use based geometry for art assets?
 > Yes perfect, the prototype is a proof of concept, please don't waste time on creating art assets; if the game is fun with simple art assets, that is perfect. At least change the colour palette to be aesthetically pleasing though.
 
-*these are two questions we'd ask ourselves and the client and further commuications would be through email*
----
+these are two questions we'd ask ourselves and the client and further commuications would be through email.
+
 
 ## Project Understanding
 
@@ -53,12 +53,14 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
     * Project may not be fit for use in further development
     * Bugs may be present in prototype due to the short turn-around
     * Working quickly is error-prone
+    * Githud Commit Conflicts
 
 ### Risk Management
 [//]: # (How are you managing the mentioned risks)
 * All coding will aim to be designed in an extensible manner
 * Testing will be undertaken throughout prototype development
 * Using source control we will ensure our code is safe and usable at all times
+* Communicating in our team or using brances will allow us to avoid conflicts with our commits. we can also coordiante our work so that edits do not overlap.
 
 ---
 
@@ -71,6 +73,7 @@ The client is seeking a proof of concept for a game that is simple, yet a leader
 ---
 
 ## Justification
-We have read through your breif many times and have gotten a fair idea of what you are after having it be simlar to the great fps titles such as DOOM and Halo and with you being a former bungie dev we are egar to set out and create this template for you and allow you to teach the future generation of the game industry
+We have read through your breif many times and have gotten a fair idea of what you are after having it be simlar to the great fps titles such as DOOM and Halo and with you being a former bungie dev we are egar to set out and create this template for you and allow you to teach the future generation of the game industry.
 
-etc. Explain your design decisions in regards to the client's requirements.
+Follow The design plan that has been formulated will help our team manage our time and scope to hopefully create the simple FPS template that was requested. there may still be conflicts or bugs that arise but we will comment our work to help clarify what each section does for the template. 
+
