@@ -55,7 +55,7 @@ these are two questions we'd ask ourselves and the client and further commuicati
 * Working quickly is error-prone
 * Githud Commit Conflicts
 * New Team
-* Team Communication
+* Team members failing to Communicate
 
 ### Risk Management
 [//]: # (How are you managing the mentioned risks)
