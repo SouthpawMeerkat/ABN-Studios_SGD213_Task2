@@ -35,8 +35,8 @@ these are two questions we'd ask ourselves and the client and further commuicati
 * Quality transparent project management (add the client)
 * Does **not** require audio
 * Does **not** require high quality art
-    * Can use basic geometry
-    * Should still look nice using colour palettes
+* Can use basic geometry
+* Should still look nice using colour palettes
 
 ### Assumptions
 [//]: # (What are you assuming based on client responses)
