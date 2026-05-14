@@ -39,7 +39,6 @@ gray box arena
 ### Requirements
 [//]: # (What are the requirements of the finished project?)
 * Client requests the product on June 1st.
-* 
 
 ### Expectations
 [//]: # (What are the client's expectations?)
