@@ -50,10 +50,12 @@ these are two questions we'd ask ourselves and the client and further commuicati
 ### Risks
 [//]: # (What are the risks of this project)
 * Unity and C# are excellent prototyping tools, but working quickly often means less than perfect code
-    * Project may not be fit for use in further development
-    * Bugs may be present in prototype due to the short turn-around
-    * Working quickly is error-prone
-    * Githud Commit Conflicts
+* Project may not be fit for use in further development
+* Bugs may be present in prototype due to the short turn-around
+* Working quickly is error-prone
+* Githud Commit Conflicts
+* New Team
+* Team Communication
 
 ### Risk Management
 [//]: # (How are you managing the mentioned risks)
@@ -61,6 +63,8 @@ these are two questions we'd ask ourselves and the client and further commuicati
 * Testing will be undertaken throughout prototype development
 * Using source control we will ensure our code is safe and usable at all times
 * Communicating in our team or using brances will allow us to avoid conflicts with our commits. we can also coordiante our work so that edits do not overlap.
+* Being a new team the scope of the game will be lowered
+* Time will be set aside to work together and look at how eachother works.
 
 ---
 
