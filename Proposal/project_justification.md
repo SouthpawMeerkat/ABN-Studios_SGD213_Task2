@@ -64,7 +64,9 @@ these are two questions we'd ask ourselves and the client and further commuicati
 * Using source control we will ensure our code is safe and usable at all times
 * Communicating in our team or using brances will allow us to avoid conflicts with our commits. we can also coordiante our work so that edits do not overlap.
 * Being a new team the scope of the game will be lowered
-* Time will be set aside to work together and look at how eachother works.
+* Time will be set aside to work together and look at how each other works.
+* Commuication will be frequent with many meeting time set aside to discus what the team has worked on.
+* Trello will be used to seperate and define tasks with in the team. 
 
 ---
 
