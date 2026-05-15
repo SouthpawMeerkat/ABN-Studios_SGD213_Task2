@@ -6,6 +6,23 @@ Looking for a standard Doom, Halo 1-2, Quake, or Duke Nukem-style FPS. Need some
 ## Design
 [//]: # (How will you meet the client's brief, their expectations, and their requirements.)
 Using component-based programming in Unity Engine, we will compose a template that fits the brief and allow the client to proceed with teaching his class
+
+# Recommended Unity Setup
+
+| Area | Recommendation |
+|------|----------------|
+| Unity Version | Unity 6 LTS / Stable Release |
+| Project Template | 3D URP Template |
+| Render Pipeline | Universal Render Pipeline (URP) |
+| Input System | Unity Input System |
+| Physics | 3D Physics using Rigidbody and Character Controller |
+| AI System | NavMesh Agents or simple patrol/look-at AI |
+| UI System | Unity Canvas UI or UI Toolkit |
+| Audio | Unity Audio Source & Audio Mixer |
+| Version Control | GitHub |
+| Project Management | Trello |
+
+---
 ### Project Name
 We will be addressing this project within our team and this document as: FPS Template
 
