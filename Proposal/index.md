@@ -40,6 +40,13 @@ We will be addressing this project within our team and this document as: FPS Tem
 ### End Date
 01/06/2026
 
+# Students
+| Name | Student No. |
+|------|-------------|
+| Alexand Ramsay | 1145534 |
+| Benjamin Stokes | 1170552 |
+| Nigel Rath | |
+
 ### Justification
 [Project Justification](project_justification.md).
 
